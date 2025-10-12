@@ -35,8 +35,8 @@
 
 **☎️ Мои контакты**
 
-- Email: zhuranova-anita@yandex.ru  
-- Telegram: [t.me/AnnZhuu](https://t.me/AnnZhuu)  
+- Email: stavrov44@gmail.com 
+- Telegram: [t.me/stavrov](https://t.me/stavrov)  
 
 **📌 Моё портфолио**
 
