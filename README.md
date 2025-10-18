@@ -21,9 +21,8 @@
 - Технические навыки: Python, PostgreSQL, MS Excel.
 - Аналитические методы: EDA (Exploratory Data Analysis), A/B-тестирование, Когортный анализ, Юнит-экономика
 - Web-аналитика: GA-4, Я.Метрика, GTM (настройка тегов, триггеров, переменных)
-- Инструменты визуализации и презентации: Tableau | DataLens Apache Superset PowerPoint Figma | Miro
-- Методы работы: Agile | Scrum
-Kanban
+- Инструменты визуализации и презентации: Tableau, DataLens, Apache Superset,  PowerPoint, Figma, Miro
+- Методы работы: Agile, Scrum, Kanban
 
 
 **☎️ Мои контакты**
